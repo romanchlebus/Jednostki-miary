@@ -25,3 +25,31 @@ html {
 #rem {
     width: 20rem;
 }
+#procent{
+    width: 50%;
+}
+#vw{
+    width: 60vw;
+}
+
+#vh{
+    width: 60vh;
+}
+
+#vmin{
+    width: 60vmin;
+}
+#vmax{
+    width: 60vmax;
+}
+
+
+
+
+
+
+
+
+
+
+
